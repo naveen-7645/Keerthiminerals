@@ -1,0 +1,5 @@
+/* styles.css */
+.hero {
+    background: url('images/hero-bg.jpg') no-repeat center center;
+    background-size: cover;
+}
